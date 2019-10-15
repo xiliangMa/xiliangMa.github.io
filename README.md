@@ -8,4 +8,4 @@ xiliangMa github blog
    - [v1.15.4](https://github.com/xiliangMa/xiliangMa.github.io/blob/master/kubernetes/install/1.15.4/v1.15.4.md)
    
 ## Ubuntu
-   - [v1.15.4](https://github.com/xiliangMa/xiliangMa.github.io/blob/master/kubernetes/install/1.15.4/v1.15.4.md)
+   - [v1.15.4]()
