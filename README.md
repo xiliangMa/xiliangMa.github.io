@@ -10,5 +10,5 @@
   - [rancher 操作记录](https://github.com/xiliangMa/xiliangMa.github.io/blob/master/rancher/README.md) 
 
 #### linux 日常
-    
+  - [日常操作记录](https://github.com/xiliangMa/xiliangMa.github.io/blob/master/日常记录/README.md)
    
